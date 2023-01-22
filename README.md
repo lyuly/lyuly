@@ -8,7 +8,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=lyuly)
 
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=lyuly&theme=github)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=lyuly&theme=vue)
 
 <!---
 lyuly/lyuly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 - 👏🏻 Hi, I’m lyuly
-- 👀 I’m interested in Front-end
+- 👀 I love coding in Front-end🥰
 - 🌱 I’m currently learning react
 
 ## Skill

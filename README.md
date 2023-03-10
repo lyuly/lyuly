@@ -8,3 +8,5 @@
 ## GitHub status
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=lyuly&show_icons=true&theme=swift" alt="" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyuly&layout=compact&theme=buefy&hide_border=true" alt="" />
+
+<img align="center" src="https://raw.githubusercontent.com/lyuly/lyuly/gh-pages/github-snake.svg"/>

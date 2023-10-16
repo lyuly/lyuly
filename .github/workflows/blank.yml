@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       
-      - uses: Platane/snk@v2
+      - uses: Platane/snk@v3
         id: snake-img
         with:
           github_user_name: lyuly
